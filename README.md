@@ -1,5 +1,5 @@
 # aia_exam
-Examine instruments for profitability
+Examine instruments for profitability, using LLMs, vibe coding only, no manual editing.
 
 # Manual
 Create project in github and add readme
